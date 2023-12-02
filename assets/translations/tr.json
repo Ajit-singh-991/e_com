@@ -1,0 +1,75 @@
+{
+    "common": {
+      "nav": {
+        "home": "होम",
+        "shop": "शॉप",
+        "bag": "बैग",
+        "favorites": "पसंदीदा",
+        "profile": "प्रोफ़ाइल"
+      },
+      "buttons": {
+        "add_to_cart": "कार्ट में डालें",
+        "check_out": "चेक आउट",
+        "continue_shopping": "खरीददारी जारी रखें"
+      },
+      "placeholder": {
+        "name": "जॉन डो",
+        "mail": "johndoe@gmail.com"
+      },
+      "messages": {
+        "favorite_add": "पसंदीदा में जोड़ा गया।",
+        "favorite_remove": "पसंदीदा से हटा दिया गया।",
+        "bag_add": "बैग में जोड़ा गया।",
+        "bag_remove": "बैग से हटा दिया गया।"
+      }
+    },
+    "home": {
+      "title": "नई कलेक्शन",
+      "sale": "समर\nसेल",
+      "hoodies": "पुरुष हुड़ी",
+      "black": "काला"
+    },
+    "shop": {
+      "title": "उत्पाद",
+      "sort": "क्रमबद्ध करें",
+      "sort_types": {
+        "popular": "लोकप्रिय",
+        "newest": "नवीनतम",
+        "reviews": "उपयोगकर्ता समीक्षा",
+        "price_low": "मूल्य: उच्च से कम",
+        "price_high": "मूल्य: कम से उच्च"
+      }
+    },
+    "bag": {
+      "title": "आपका बैग",
+      "promo": "प्रोमो कोड दर्ज करें",
+      "total": "कुल राशि",
+      "codes": "आपके प्रोमो कोड",
+      "apply": "लागू करें",
+      "empty": "आपका बैग खाली है :("
+    },
+    "favorites": {
+      "title": "पसंदीदा",
+      "empty": "अबतक कोई पसंदीदा नहीं"
+    },
+    "profile": {
+      "title": "मेरी प्रोफ़ाइल",
+      "orders": "मेरे ऑर्डर",
+      "addresses": "मेरे पते",
+      "methods": "मेरे भुगतान तरीके",
+      "codes": "मेरे कोड",
+      "reviews": "मेरी समीक्षाएँ",
+      "settings": "सेटिंग्स",
+      "theme": "डार्क थीम",
+      "phone": "फ़ोन:"
+    },
+    "product_detail": {
+      "shipping_info": "शिपिंग जानकारी",
+      "support": "समर्थन"
+    },
+    "success": {
+      "title": "सफलता!",
+      "thanks": "आपका ऑर्डर शीघ्र पहुँचाया जाएगा।\nहमारे ऐप का चयन करने के लिए धन्यवाद!"
+    }
+  }
+  
